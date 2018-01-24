@@ -1,9 +1,5 @@
 ## Welcome to over the air installation of iOS Apps
 
-[Click here to install running app](itms-services://?action=download-manifest&url=https://www.dropbox.com/s/juo153bl6v4u696/manifest.plist)
-
-
-
 You can use the [editor on GitHub](https://github.com/mzeeshanid/OTAAppInstall/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
